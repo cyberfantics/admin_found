@@ -9,7 +9,7 @@ It is a tool to display the admin panel easily and quickly
 
 3-`pip install git`
 
-4-`git clone https://github.com/mr-sami-x/admin_found.git`
+4-`git clone https://github.com/cyberfantics/admin_found.git`
 
 5-`cd admin_found`
 
@@ -22,12 +22,10 @@ It is a tool to display the admin panel easily and quickly
 
 3-`pkg install git`
 
-4-`git clone https://github.com/mr-sami-x/admin_found.git`
+4-`git clone https://github.com/cyberfantics/admin_found.git`
 
 5-`cd admin_found`
 
 6-`python admin.py`
-### Coded By Mr Sami
-[Cannal Telegram](https;//t.me/TYG_YE)
-
-[Video Is The Tool]()
+### Coded By SalfiHacker
+[Cannal Telegram](https;//t.me/cyberfantics)
