@@ -1,31 +1,46 @@
-# admin found
-It is a tool to display the admin panel easily and quickly
+# Admin Page Finder
 
-## INSTALING KALI
+This Python script is designed to search for admin pages on websites. It uses various tools and libraries to automate the process.
 
-1-`pip install python`
+## Features
 
-2-`pip install requests`
+- Finds admin pages based on a predefined list of common paths used for admin access.
+- Allows searching for admin pages by providing a URL or reading URLs from a file.
+- Provides colorful output using ASCII art for a better user experience.
+- Offers quick access to developer information and related channels.
 
-3-`pip install git`
+## Installation
 
-4-`git clone https://github.com/cyberfantics/admin_found.git`
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/cyberfantics/admin-found.git
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd admin-found
+    ```
+3. Install the necessary Python libraries if not already installed:
+    ```bash
+    pip install requests pyfiglet
+    ```
+4. Run the script:
+    ```bash
+    python admin.py
+    ```
 
-5-`cd admin_found`
+## Usage
 
-6-`python admin.py`
+- Choose the option to search either by providing a URL or reading URLs from a file.
+- Follow the on-screen prompts to navigate through the search process.
+- The script will display found admin pages and save the results in a file named `sites.txt`.
 
-## INSTALL TERMUX
-1-`pkg install python`
+## Developer
 
-2-`pkg install requests`
+Developed by S4lfi H4cker.
 
-3-`pkg install git`
+## Channels
 
-4-`git clone https://github.com/cyberfantics/admin_found.git`
+- [Telegram Channel](https://t.me/cyberfantics)
+- [WhatsApp Channel](https://whatsapp.com/channel/0029VaFE5Dv5Ejy2MaydYm3Z)
 
-5-`cd admin_found`
-
-6-`python admin.py`
-### Coded By SalfiHacker
-[Cannal Telegram](https;//t.me/cyberfantics)
+Feel free to contribute or provide feedback!
